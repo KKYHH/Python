@@ -201,7 +201,7 @@ Numpy 에서 브로드캐스팅이라는 단어를 매우 많이 사용한다
 - Python Numpy에서 말하는 브로드캐스팅은 일정 조건을 부합하는 다른 형태의 배열끼리 연산 수행하는 것을 의미
 - 같은 사이즈의 데이터일때 빈곳을 채움
 
-<img src="https://github.com/KKYHH/Python/blob/main/numpy_image/%EC%8B%AC%ED%99%94_1.png?raw=true">
+<img src="https://github.com/KKYHH/Python/blob/main/image/%EC%8B%AC%ED%99%94_1.png?raw=true">
 
 - 두 축이 똑같거나
 - 둘 중 하나의 축이 1일 때
@@ -422,7 +422,7 @@ print(np.trace(mat))
 
 🛑 행렬식(Matrix Determinant)
 
-<img src="https://github.com/KKYHH/Python/blob/main/numpy_image/%EC%8B%AC%ED%99%94_2.png?raw=true">
+<img src="https://github.com/KKYHH/Python/blob/main/image/%EC%8B%AC%ED%99%94_2.png?raw=true">
 
 행렬식은 역행렬 존재 유무를 확인하는 방법
 
@@ -720,7 +720,7 @@ print(np.euler_gamma)
 - numpy array의 차원을 늘려준다
 - 1D → 2D , 2D → 3D
 
-<img src="https://github.com/KKYHH/Python/blob/main/numpy_image/%EC%8B%AC%ED%99%94_3.png?raw=true">
+<img src="https://github.com/KKYHH/Python/blob/main/image/%EC%8B%AC%ED%99%94_3.png?raw=true">
 여러가지 상황에서 적재적소에 사용된다
 
 - 1차원 array를 row vector나 column vector로 사용할 경우
