@@ -81,7 +81,7 @@ import numpy as np
 
 1차원 배열 (벡터)
 
-<img src="https://github.com/KKYHH/Python/blob/main/numpy_image/Untitled%202.png?raw=true">
+<img src="https://github.com/KKYHH/Python/blob/main/numpy_image/Untitled.png?raw=true">
 
 2차원 배열 (행렬)
 
@@ -170,7 +170,7 @@ print(matirx)
 
 Tensor = 면이 모여서 3D
 
-<img src="https://github.com/KKYHH/Python/blob/main/numpy_image/Untitled%203.png?raw=true">
+<img src="https://github.com/KKYHH/Python/blob/main/numpy_image/Untitled%202.png?raw=true">
 
 ---
 
@@ -1372,7 +1372,8 @@ print(arr1 * 2) # arr1 * arr2와 결과가 같다.
 
 <img src="https://github.com/KKYHH/Python/blob/main/numpy_image/Untitled%206.png?raw=true">
 
-<img src="https://github.com/KKYHH/Python/blob/main/numpy_image/Untitled.png?raw=true">
+<img src="https://github.com/KKYHH/Python/blob/main/numpy_image/Untitled%203.png?raw=true">
+
 
 # Mask 마스킹
 
