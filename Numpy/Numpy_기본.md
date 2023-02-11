@@ -77,11 +77,11 @@ import numpy as np
 - 다차원배열객체(ndarray)란 임의의 차원을 갖는 배열을 의미
 - Numpy의 ndarray 클래스는 행렬과 벡터 모두를 나타낼 수 있는데 벡터는 1차원 배열을 행렬은 2차원 배열을 말합니다 3차원 이상의 배열은 텐서(tensor)라고 합니다
 
-<img src="https://github.com/KKYHH/Python/blob/main/numpy_image/Untitled%201.png?raw=true">
+<img src="https://github.com/KKYHH/Python/blob/main/image/Untitled%201.png?raw=true">
 
 1차원 배열 (벡터)
 
-<img src="https://github.com/KKYHH/Python/blob/main/numpy_image/Untitled.png?raw=true">
+<img src="https://github.com/KKYHH/Python/blob/main/image/Untitled.png?raw=true">
 
 2차원 배열 (행렬)
 
@@ -170,7 +170,7 @@ print(matirx)
 
 Tensor = 면이 모여서 3D
 
-<img src="https://github.com/KKYHH/Python/blob/main/numpy_image/Untitled%202.png?raw=true">
+<img src="https://github.com/KKYHH/Python/blob/main/image/Untitled%202.png?raw=true">
 
 ---
 
@@ -1366,13 +1366,13 @@ print(arr1 * 2) # arr1 * arr2와 결과가 같다.
 [2. 4. 6.]
 ```
 
-<img src="https://github.com/KKYHH/Python/blob/main/numpy_image/Untitled%204.png?raw=true">
+<img src="https://github.com/KKYHH/Python/blob/main/image/Untitled%203.png?raw=true">
 
-<img src="https://github.com/KKYHH/Python/blob/main/numpy_image/Untitled%205.png?raw=true">
+<img src="https://github.com/KKYHH/Python/blob/main/image/Untitled%204.png?raw=true">
 
-<img src="https://github.com/KKYHH/Python/blob/main/numpy_image/Untitled%206.png?raw=true">
+<img src="https://github.com/KKYHH/Python/blob/main/image/Untitled%206.png?raw=true">
 
-<img src="https://github.com/KKYHH/Python/blob/main/numpy_image/Untitled%203.png?raw=true">
+<img src="https://github.com/KKYHH/Python/blob/main/image/Untitled%205.png?raw=true">
 
 
 # Mask 마스킹
