@@ -81,7 +81,7 @@ import numpy as np
 
 1차원 배열 (벡터)
 
-![Untitled](Numpy%20%E1%84%80%E1%85%B5%E1%84%8E%E1%85%A9%201c27471332a7436c882807c10eb38546/Untitled%201.png)
+<img src="https://github.com/KKYHH/Python/blob/main/numpy_image/Untitled%202.png?raw=true">
 
 2차원 배열 (행렬)
 
@@ -170,7 +170,7 @@ print(matirx)
 
 Tensor = 면이 모여서 3D
 
-![Untitled](Numpy%20%E1%84%80%E1%85%B5%E1%84%8E%E1%85%A9%201c27471332a7436c882807c10eb38546/Untitled%202.png)
+<img src="https://github.com/KKYHH/Python/blob/main/numpy_image/Untitled%203.png?raw=true">
 
 ---
 
@@ -1366,13 +1366,13 @@ print(arr1 * 2) # arr1 * arr2와 결과가 같다.
 [2. 4. 6.]
 ```
 
-![Untitled](Numpy%20%E1%84%80%E1%85%B5%E1%84%8E%E1%85%A9%201c27471332a7436c882807c10eb38546/Untitled%203.png)
+<img src="https://github.com/KKYHH/Python/blob/main/numpy_image/Untitled%204.png?raw=true">
 
-![Untitled](Numpy%20%E1%84%80%E1%85%B5%E1%84%8E%E1%85%A9%201c27471332a7436c882807c10eb38546/Untitled%204.png)
+<img src="https://github.com/KKYHH/Python/blob/main/numpy_image/Untitled%205.png?raw=true">
 
-![Untitled](Numpy%20%E1%84%80%E1%85%B5%E1%84%8E%E1%85%A9%201c27471332a7436c882807c10eb38546/Untitled%205.png)
+<img src="https://github.com/KKYHH/Python/blob/main/numpy_image/Untitled%206.png?raw=true">
 
-![Untitled](Numpy%20%E1%84%80%E1%85%B5%E1%84%8E%E1%85%A9%201c27471332a7436c882807c10eb38546/Untitled%206.png)
+<img src="https://github.com/KKYHH/Python/blob/main/numpy_image/Untitled.png?raw=true">
 
 # Mask 마스킹
 
