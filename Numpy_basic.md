@@ -77,7 +77,7 @@ import numpy as np
 - 다차원배열객체(ndarray)란 임의의 차원을 갖는 배열을 의미
 - Numpy의 ndarray 클래스는 행렬과 벡터 모두를 나타낼 수 있는데 벡터는 1차원 배열을 행렬은 2차원 배열을 말합니다 3차원 이상의 배열은 텐서(tensor)라고 합니다
 
-(Python/numpy_image/Untitled 1.png)
+![ex screenshot](Python/numpy_image/Untitled 1.png)
 
 1차원 배열 (벡터)
 
