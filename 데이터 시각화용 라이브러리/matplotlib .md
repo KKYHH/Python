@@ -18,7 +18,7 @@ plt.plot([10,20,30,40])
 plt.show
 ```
 
-![Untitled](%E1%84%83%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%90%E1%85%A5%20%E1%84%89%E1%85%B5%E1%84%80%E1%85%A1%E1%86%A8%E1%84%92%E1%85%AA%E1%84%8B%E1%85%AD%E1%86%BC%20%E1%84%85%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%87%E1%85%B3%E1%84%85%E1%85%A5%E1%84%85%E1%85%B5%20matplotlib%20c7481f1f300e4ce8bc8765e2f7be6c89/Untitled.png)
+<img src="https://github.com/KKYHH/Python/blob/main/image/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%8B%9C%EA%B0%81%ED%99%94%EC%9A%A9%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%20matplotlib/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%8B%9C%EA%B0%81%ED%99%94%EC%9A%A9%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%20matplotlib_0.png?raw=true">
 
 `import matplotlib.pyplot as plt`
 
