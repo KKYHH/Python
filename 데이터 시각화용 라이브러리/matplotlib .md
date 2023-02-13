@@ -39,7 +39,7 @@ plt.plot([1,2,3,4],[12,43,25,15])
 plt.show()
 ```
 
-![Untitled](%E1%84%83%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%90%E1%85%A5%20%E1%84%89%E1%85%B5%E1%84%80%E1%85%A1%E1%86%A8%E1%84%92%E1%85%AA%E1%84%8B%E1%85%AD%E1%86%BC%20%E1%84%85%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%87%E1%85%B3%E1%84%85%E1%85%A5%E1%84%85%E1%85%B5%20matplotlib%20c7481f1f300e4ce8bc8765e2f7be6c89/Untitled%201.png)
+<img src="https://github.com/KKYHH/Python/blob/main/image/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%8B%9C%EA%B0%81%ED%99%94%EC%9A%A9%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%20matplotlib/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%8B%9C%EA%B0%81%ED%99%94%EC%9A%A9%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%20matplotlib_1.png?raw=true">
 
 위처럼 두 개의 리스트를 입력할 경우에는 첫 번째 리스트가 x축 값,
 
@@ -54,7 +54,7 @@ plt.plot([1,2,3,4],[12,43,25,15])
 plt.show()
 ```
 
-![Untitled](%E1%84%83%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%90%E1%85%A5%20%E1%84%89%E1%85%B5%E1%84%80%E1%85%A1%E1%86%A8%E1%84%92%E1%85%AA%E1%84%8B%E1%85%AD%E1%86%BC%20%E1%84%85%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%87%E1%85%B3%E1%84%85%E1%85%A5%E1%84%85%E1%85%B5%20matplotlib%20c7481f1f300e4ce8bc8765e2f7be6c89/Untitled%202.png)
+<img src="https://github.com/KKYHH/Python/blob/main/image/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%8B%9C%EA%B0%81%ED%99%94%EC%9A%A9%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%20matplotlib/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%8B%9C%EA%B0%81%ED%99%94%EC%9A%A9%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%20matplotlib_2.png?raw=true">
 
 `plt.title(’plotting’)`
 
@@ -84,7 +84,7 @@ plt.legend()
 plt.show()
 ```
 
-![Untitled](%E1%84%83%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%90%E1%85%A5%20%E1%84%89%E1%85%B5%E1%84%80%E1%85%A1%E1%86%A8%E1%84%92%E1%85%AA%E1%84%8B%E1%85%AD%E1%86%BC%20%E1%84%85%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%87%E1%85%B3%E1%84%85%E1%85%A5%E1%84%85%E1%85%B5%20matplotlib%20c7481f1f300e4ce8bc8765e2f7be6c89/Untitled%203.png)
+<img src="https://github.com/KKYHH/Python/blob/main/image/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%8B%9C%EA%B0%81%ED%99%94%EC%9A%A9%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%20matplotlib/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%8B%9C%EA%B0%81%ED%99%94%EC%9A%A9%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%20matplotlib_3.png?raw=true">
 
 plot() 함수 안에 리스트와 함께 label 이름을 정하고
 
@@ -103,12 +103,12 @@ plt.legend()
 plt.show()
 ```
 
-![Untitled](%E1%84%83%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%90%E1%85%A5%20%E1%84%89%E1%85%B5%E1%84%80%E1%85%A1%E1%86%A8%E1%84%92%E1%85%AA%E1%84%8B%E1%85%AD%E1%86%BC%20%E1%84%85%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%87%E1%85%B3%E1%84%85%E1%85%A5%E1%84%85%E1%85%B5%20matplotlib%20c7481f1f300e4ce8bc8765e2f7be6c89/Untitled%204.png)
+<img src="https://github.com/KKYHH/Python/blob/main/image/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%8B%9C%EA%B0%81%ED%99%94%EC%9A%A9%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%20matplotlib/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%8B%9C%EA%B0%81%ED%99%94%EC%9A%A9%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%20matplotlib_4.png?raw=true">
 
 - plot() 함수 안에 `color=’ ‘` 를 넣고 원하는 색상을 넣는다
 - 위 ‘pink’ 처럼 color=는 생략이 가능
 
-![Untitled](%E1%84%83%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%90%E1%85%A5%20%E1%84%89%E1%85%B5%E1%84%80%E1%85%A1%E1%86%A8%E1%84%92%E1%85%AA%E1%84%8B%E1%85%AD%E1%86%BC%20%E1%84%85%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%87%E1%85%B3%E1%84%85%E1%85%A5%E1%84%85%E1%85%B5%20matplotlib%20c7481f1f300e4ce8bc8765e2f7be6c89/Untitled%205.png)
+<img src="https://github.com/KKYHH/Python/blob/main/image/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%8B%9C%EA%B0%81%ED%99%94%EC%9A%A9%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%20matplotlib/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%8B%9C%EA%B0%81%ED%99%94%EC%9A%A9%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%20matplotlib_5.png?raw=true">
 
 위와 같이 색상 이름을 사용해서 색상지정이 가능하다
 
@@ -124,13 +124,13 @@ plt.legend()
 plt.show()
 ```
 
-![Untitled](%E1%84%83%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%90%E1%85%A5%20%E1%84%89%E1%85%B5%E1%84%80%E1%85%A1%E1%86%A8%E1%84%92%E1%85%AA%E1%84%8B%E1%85%AD%E1%86%BC%20%E1%84%85%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%87%E1%85%B3%E1%84%85%E1%85%A5%E1%84%85%E1%85%B5%20matplotlib%20c7481f1f300e4ce8bc8765e2f7be6c89/Untitled%206.png)
+<img src="https://github.com/KKYHH/Python/blob/main/image/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%8B%9C%EA%B0%81%ED%99%94%EC%9A%A9%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%20matplotlib/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%8B%9C%EA%B0%81%ED%99%94%EC%9A%A9%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%20matplotlib_6.png?raw=true">
 
 `linestyle=’ ‘` 안에 원하는 선 모양을 넣으면 된다
 
 선의 종류는 다음과 같다
 
-![Untitled](%E1%84%83%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%90%E1%85%A5%20%E1%84%89%E1%85%B5%E1%84%80%E1%85%A1%E1%86%A8%E1%84%92%E1%85%AA%E1%84%8B%E1%85%AD%E1%86%BC%20%E1%84%85%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%87%E1%85%B3%E1%84%85%E1%85%A5%E1%84%85%E1%85%B5%20matplotlib%20c7481f1f300e4ce8bc8765e2f7be6c89/Untitled%207.png)
+<img src="https://github.com/KKYHH/Python/blob/main/image/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%8B%9C%EA%B0%81%ED%99%94%EC%9A%A9%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%20matplotlib/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%8B%9C%EA%B0%81%ED%99%94%EC%9A%A9%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%20matplotlib_7.png?raw=true">
 
 ### 마커 모양 바꾸기
 
@@ -143,7 +143,7 @@ plt.legend()
 plt.show()
 ```
 
-![Untitled](%E1%84%83%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%90%E1%85%A5%20%E1%84%89%E1%85%B5%E1%84%80%E1%85%A1%E1%86%A8%E1%84%92%E1%85%AA%E1%84%8B%E1%85%AD%E1%86%BC%20%E1%84%85%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%87%E1%85%B3%E1%84%85%E1%85%A5%E1%84%85%E1%85%B5%20matplotlib%20c7481f1f300e4ce8bc8765e2f7be6c89/Untitled%208.png)
+<img src="https://github.com/KKYHH/Python/blob/main/image/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%8B%9C%EA%B0%81%ED%99%94%EC%9A%A9%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%20matplotlib/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%8B%9C%EA%B0%81%ED%99%94%EC%9A%A9%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%20matplotlib_8.png?raw=true">
 
 위 예시의 경우 빨간 선은(r)은 point marker로, 녹색 선(g)은 triangle_up marker로 나타내는 그래프이다
 
@@ -151,4 +151,4 @@ plot() 함수 다음에 원하는 마커를 넣어주면 된다
 
 matplotlib에서 사용할 수 있는 마커의 종류
 
-![Untitled](%E1%84%83%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%90%E1%85%A5%20%E1%84%89%E1%85%B5%E1%84%80%E1%85%A1%E1%86%A8%E1%84%92%E1%85%AA%E1%84%8B%E1%85%AD%E1%86%BC%20%E1%84%85%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%87%E1%85%B3%E1%84%85%E1%85%A5%E1%84%85%E1%85%B5%20matplotlib%20c7481f1f300e4ce8bc8765e2f7be6c89/Untitled%209.png)
+<img src="https://github.com/KKYHH/Python/blob/main/image/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%8B%9C%EA%B0%81%ED%99%94%EC%9A%A9%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%20matplotlib/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%8B%9C%EA%B0%81%ED%99%94%EC%9A%A9%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%20matplotlib_9.png?raw=true">
