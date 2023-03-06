@@ -10,7 +10,7 @@
 
 이 때, 기울기가 전파되면서 신경망의 깊이가 깊어질수록 기울기가 소실되는 문제가 발생합니다.
 
-![Untitled](%5BDeeplearning%5D%20%E1%84%80%E1%85%B5%E1%84%8B%E1%85%AE%E1%86%AF%E1%84%80%E1%85%B5%20%E1%84%89%E1%85%A9%E1%84%89%E1%85%B5%E1%86%AF%20Vanishing%20Gradient%20a4e95eb76fb641ae84fc923d8d952272/Untitled.png)
+<img src="https://github.com/KKYHH/Python/blob/main/image/%EB%94%A5%EB%9F%AC%EB%8B%9D/%5BDeeplearning%5D%20%EA%B8%B0%EC%9A%B8%EA%B8%B0%20%EC%86%8C%EC%8B%A4%20Vanishing%20Gradient%20.png?raw=true">
 
 기울기 소실 문제는 심층 신경망에서 특히 더 크게 나타납니다. 
 
@@ -20,7 +20,7 @@
 
 이 함수들은 입력값이 일정 범위를 넘어가면 기울기가 매우 작아지게 되는데, 이 때문에 신경망이 깊어질수록 기울기가 소실되는 문제가 발생합니다.
 
-![Untitled](%5BDeeplearning%5D%20%E1%84%80%E1%85%B5%E1%84%8B%E1%85%AE%E1%86%AF%E1%84%80%E1%85%B5%20%E1%84%89%E1%85%A9%E1%84%89%E1%85%B5%E1%86%AF%20Vanishing%20Gradient%20a4e95eb76fb641ae84fc923d8d952272/Untitled%201.png)
+<img src="https://github.com/KKYHH/Python/blob/main/image/%EB%94%A5%EB%9F%AC%EB%8B%9D/%5BDeeplearning%5D%20%EA%B8%B0%EC%9A%B8%EA%B8%B0%20%EC%86%8C%EC%8B%A4%20Vanishing%20Gradient%201.png?raw=true">
 
 이러한 기울기 소실 문제를 해결하기 위해서는 다양한 방법이 제안되고 있습니다. 
 
@@ -30,9 +30,9 @@
 
 이 함수는 기울기가 0이 되는 문제를 해결할 수 있습니다.
 
-![Untitled](%5BDeeplearning%5D%20%E1%84%80%E1%85%B5%E1%84%8B%E1%85%AE%E1%86%AF%E1%84%80%E1%85%B5%20%E1%84%89%E1%85%A9%E1%84%89%E1%85%B5%E1%86%AF%20Vanishing%20Gradient%20a4e95eb76fb641ae84fc923d8d952272/Untitled%202.png)
+<img src="https://github.com/KKYHH/Python/blob/main/image/%EB%94%A5%EB%9F%AC%EB%8B%9D/%5BDeeplearning%5D%20%EA%B8%B0%EC%9A%B8%EA%B8%B0%20%EC%86%8C%EC%8B%A4%20Vanishing%20Gradient%202.png?raw=true">
 
-![Untitled](%5BDeeplearning%5D%20%E1%84%80%E1%85%B5%E1%84%8B%E1%85%AE%E1%86%AF%E1%84%80%E1%85%B5%20%E1%84%89%E1%85%A9%E1%84%89%E1%85%B5%E1%86%AF%20Vanishing%20Gradient%20a4e95eb76fb641ae84fc923d8d952272/Untitled%203.png)
+<img src="https://github.com/KKYHH/Python/blob/main/image/%EB%94%A5%EB%9F%AC%EB%8B%9D/%5BDeeplearning%5D%20%EA%B8%B0%EC%9A%B8%EA%B8%B0%20%EC%86%8C%EC%8B%A4%20Vanishing%20Gradient%203.png?raw=true">
 
 또한, 초기화 방법을 조정함으로써 기울기 소실 문제를 해결할 수도 있습니다. 
 
