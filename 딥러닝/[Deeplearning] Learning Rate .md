@@ -28,8 +28,8 @@
 
 ### 학습률이 너무 큰경우
 
-![Untitled](%5BDeeplearning%5D%20Learning%20Rate%20e31cd25784d14337bce0be40f1afe40d/Untitled.png)
+<img src="https://github.com/KKYHH/Python/blob/main/image/%EB%94%A5%EB%9F%AC%EB%8B%9D/%5BDeeplearning%5D%20Learning%20Rate%20.png?raw=true">
 
 ### 학습률이 너무 작을 경우
 
-![Untitled](%5BDeeplearning%5D%20Learning%20Rate%20e31cd25784d14337bce0be40f1afe40d/Untitled%201.png)
+<img src="https://github.com/KKYHH/Python/blob/main/image/%EB%94%A5%EB%9F%AC%EB%8B%9D/%5BDeeplearning%5D%20Learning%20Rate%201.png?raw=true">
